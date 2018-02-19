@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Workshop</string>
+    <string name="my_wish_list">My wish List</string>
+    <string name="saveBtn">Save</string>
+</resources>
